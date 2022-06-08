@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com atendimento ao cliente e vendas
-- 🌱 Estudando JavaScript, NodeJs...
+- 🌱 Estudando JavaScript, NodeJs, ReactJs
 - 📫 Contate-me no email: biacamille2019@gmail.com
 - 😄 Pronouns: ela/dela
 -->
